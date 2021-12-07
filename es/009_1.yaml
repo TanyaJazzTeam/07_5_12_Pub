@@ -1,13 +1,19 @@
-#YAML
+---
 my:
-    cake:
-      composition: [dough, cream]
+  cake:
+    composition:
       dough:
-       - eggs
-       - riis
-       - sugar
-       - flour
+      - eggs
+      - sugar
+      - flour
       cream:
-        - sugar
-        - milk
-      composition: { dough: [eggs, sugar, flour], cream: [sugar, milk]}
+      - sugar
+      - milk
+    dough:
+    - eggs
+    - riis
+    - sugar
+    - flour
+    cream:
+    - sugar
+    - milk
