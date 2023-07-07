@@ -6,6 +6,10 @@ msgstr ""
 msgid "A screenshot showing amp-sidebar онг."
 msgstr ""
 
+#: /views/partials/format-visuals/websites.j2:79
+msgid "A"
+msgstr ""
+
 #: /views/partials/format-visuals/websites.j2:7
 msgid "A website screenshot."
 msgstr ""
